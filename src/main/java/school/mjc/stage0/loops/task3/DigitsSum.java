@@ -24,5 +24,6 @@ public class DigitsSum {
             length++;
             temp++;
         }
+        return length;
     }
 }
