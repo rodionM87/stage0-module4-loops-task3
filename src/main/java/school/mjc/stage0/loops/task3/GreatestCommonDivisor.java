@@ -34,6 +34,7 @@ public class GreatestCommonDivisor {
                 }
                 String str = Integer.toString(resultSecond);
                 System.out.println(str);
-            
+            }
+        }    
     }
 }
